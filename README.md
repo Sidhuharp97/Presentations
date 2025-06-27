@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 ## **Please find below all the oral and poster presentations I have given over time**
 
@@ -31,7 +26,7 @@ editor_options:
     Phosphorus Fertilizer. UCOWR/NIWR Annual Conference 2022,
     Greenville, SC.
     <https://efaidnbmnnnibpcajpcglclefindmkaj/https://ucowr.org/wp-content/uploads/2022/07/2022_UCOWR_NIWR_Conference_Abstracts.pdf>
-7.   Kaur, H., Nelson, K. A., & Singh, G. (2021) Cover Crops, Soil
+7.  Kaur, H., Nelson, K. A., & Singh, G. (2021) Cover Crops, Soil
     Moisture, and Precipitation Affect Nutrient Loss of Spring Applied
     Phosphorus Fertilizer [Abstract]. ASA, CSSA, SSSA International
     Annual Meeting, Salt Lake City, UT.
